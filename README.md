@@ -1,2 +1,2 @@
 # PGASA
-PAGASA tasks
+PGASA tasks
